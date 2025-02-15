@@ -1,7 +1,7 @@
 
 function Home() {
     return (
-        <div className="flex justify-center bg-indigo-900">
+        <div className="flex justify-center bg-red-950">
             <div className="container grid grid-cols-2 text-white">
                 <div className="flex flex-col items-center justify-center gap-4 py-4">
                     <h2 className="text-5xl font-bold">Seja Bem Vinde!</h2>
@@ -21,7 +21,7 @@ function Home() {
 
                 <div className="flex justify-content">
                     <img
-                        src="https://i.imgur.com/VpwApCU.png"
+                        src="https://ik.imagekit.io/u4ctxhv0m/Blog%20Pessoal/programmer%20steps.svg?updatedAt=1739587057865"
                         alt="Imagem da Página Home"
                         className="w-2/3"
                     />
