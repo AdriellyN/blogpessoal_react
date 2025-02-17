@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <div className="w-full flex flex-col items-center bg-red-950 text-white py-4">
+        <div className="w-full flex flex-col items-center text-white py-4 bg-gradient-to-t from-black to-red-950">
             <div className="text-xl font-bold">
                 Blog Pessoal Adrielly | Copyright: 2025
             </div>
