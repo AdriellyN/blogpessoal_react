@@ -17,10 +17,9 @@ function Home() {
                         </p>
 
                         <div className="flex justify-around gap-4">
-                        <div className="flex justify-around gap-4">
-                                <ModalPostagem />
-                            </div>
+                            <ModalPostagem />
                         </div>
+
                     </div>
 
                     <div id="imagem" className="flex justify-center">
